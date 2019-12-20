@@ -1,0 +1,9 @@
+{
+  "mailgun":{
+    "apiKey": "<< your api_key >>",
+    "domain": "<< domain >>"
+  },
+  "sendgrid": {
+    "apiKey":"<< your api_key >>"
+  }
+}
